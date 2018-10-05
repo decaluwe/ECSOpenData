@@ -1,0 +1,31 @@
+file-author:
+    name: Steven DeCaluwe
+    ORCID: 0000-0002-3356-8247
+device-type: sofc
+sofc:
+    source:
+    anode:
+        -layer:
+            material:
+            thickness:
+            porosity:
+        -layer:
+            material:
+            thickness:
+            porosity:
+    cathode:
+        -layer:
+            material:
+            thickness:
+            porosity:
+        -layer:
+            material:
+            thickness:
+            porosity:
+    electrolyte:
+        -layer:
+            material:
+            thickness:
+        -layer:
+            material:
+            thickness:
